@@ -1,6 +1,6 @@
 # CleanCommerce
 
-Esse projeto, apelidado de CleanCommerce, segue o modelo de Software como Serviço (SaaS), ao fornecer uma plataforma de desenvolvimento e operação de **e-commerces**, e foi implementado com o intuito de praticar principalmente a **Clean Architecture**, bem como princípios de princípios de DDD e SOLID, utilizando NodeJS e Typescript.
+Esse projeto, apelidado de CleanCommerce, segue o modelo de Software como Serviço (SaaS), ao fornecer uma plataforma de desenvolvimento e operação de **e-commerces** e foi implementado com o objetivo de praticar conceitos como **Clean Architecture** e princípios de DDD e SOLID, utilizando NodeJS e Typescript.
 
 ## Requisitos Funcionais Implementados
 
